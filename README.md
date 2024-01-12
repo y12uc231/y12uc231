@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Satya and I am solving problems related to explaining machine learning models! 
+I am Satya and I am solving problems related to understanding LLMs better! 
